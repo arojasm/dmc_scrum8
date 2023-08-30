@@ -1,2 +1,7 @@
 Autor : Arturo
 fecha : 29/08/2023
+
+create table m_cliente (
+nombre varchar2 ( 60),
+apellido varchar2 ( 60)
+)
